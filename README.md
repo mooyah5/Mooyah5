@@ -6,7 +6,6 @@
 </p>
 
 
-
 ### 👩🏻‍🎓 Education & Career
 
 - 2022.07 명지대학교 계절학기 컴퓨터 프로그래밍 수강  - 파이썬 학습 (1등)
@@ -14,10 +13,12 @@
 - 2022.01 - 2022.12 Samsung SW Academy For Youth (a.k.a. SSAFY) 7th 수료
 
 
-### 👩🏻‍🎓 Certification
+### 👩🏻‍🎓 Certification & Awards
 
 - 2021.11.26 정보처리기사 (Q-net)
 - 2021.12.03 스포츠지도사 2급 보디빌딩 (국민체육진흥공단)
+
+- 2022.08.19 삼성 청년 SW 아카데미 공통프로젝트 우수상(오운완)
 
 
 ### 👩🏻‍🎓 Activity
