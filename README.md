@@ -10,7 +10,7 @@
 
 - 2022.07 명지대학교 계절학기 컴퓨터 프로그래밍 수강  - 파이썬 학습 (1등)
 - 2022.07 명지대학교 계절학기 경영정보 수강 - SQL 학습 (3등)
-- 2022.01 - 2022.12 Samsung SW Academy For Youth (a.k.a. SSAFY) 7th 수료
+- 2022.01 - 2022.12 삼성 청년 SW 아카데미 (SSAFY) 7th 수료
 
 
 ### 👩🏻‍🎓 Certification & Awards
