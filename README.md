@@ -53,10 +53,10 @@
 - Python
 
 ### Currently Learning
-- Improving JavaScript fundamentals
-- Algorithm with Python and JavaScript syntax
-- Node.js, Next, Express, MongoDB for backend understanding
-- SCSS, TypeScript, and other techniques for code readability and maintainability
+- Basic - Improving JavaScript fundamentals
+- Algorithm -  with Python and JavaScript syntax
+- BE Understanding - Node.js, Next, Express, MongoDB
+- Code Efficiency and Maintainability - SCSS, TypeScript, and other techniques
 
  
 </br>
