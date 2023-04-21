@@ -5,46 +5,11 @@
   I wanna give back to society with trendy, user-friendly designs that make life easier.</br>
   I'm constantly leveling up my skills to take things to the next level! 💪
 </p>
-
-
 <br/>
 
 
-### 👩🏻‍🎓 Education & Career
+## 🔭 Technical Skills
 
-- 2022.01 - 2022.12 삼성 청년 SW 아카데미 (SSAFY) 7th 수료
-- 2021.07 명지대학교 계절학기 컴퓨터 프로그래밍 수강  - 파이썬 학습 (1등)
-- 2021.07 명지대학교 계절학기 경영정보 수강 - SQL 학습 (3등)
-<br />
-
-### 👑 Certification & Awards
-
-- 2022.08.19 삼성 청년 SW 아카데미 공통프로젝트 우수상(오운완)
-- 2021.12.03 스포츠지도사 2급 보디빌딩 (국민체육진흥공단)
-- 2021.11.26 정보처리기사 (한국산업인력공단)
-<br />
-
-### 🤹‍♀️ Activity
-
-- 2022.01 - 2022.11 삼성 청년 SW 아카데미 공식 교육생 기자단(SSAFYcial)
-- 2019.01 - 2019.12 명지대학교 중앙 댄스동아리(MGH) 회장
-- 2017.01 - 2017.12 명지대학교 국제통상학과 토론학회(누리다솜) 부학회장
-<br />
-
-
-### 💻 Project
-
-|      Period       |       Category        | Project                                                      |
-| :---------------: | :-------------------: | ------------------------------------------------------------ |
-| 2022.10 - 2022.11 |          App          | [성냥팔이 호랭이](https://github.com/mooyah5/horaeng) (에너지 절약 모바일 애플리케이션) |
-| 2022.08 - 2022.10 |          Web          | [yeo-bo](https://github.com/mooyah5/yeo-bo) (사용자 리뷰 기반 여행지 추천 서비스) |
-| 2022.07 - 2022.08 |          Web          | [오운완](https://github.com/mooyah5/o_un_wan) (Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티) |
-| 2021.05 - 2021.05 |          Web          | [Mobee](https://github.com/mooyah5/Mobee) (추천 알고리즘을 사용한 영화 커뮤니티) |
-
-<br />
-
-
-### <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Tech Stack</h3>
 <p dir="auto">
 
   <b> Frontend　</b>
@@ -75,3 +40,67 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white">
   
 </p>
+
+</br>
+
+### Proficient in
+- HTML5, CSS3, JavaScript
+- React, React Native, Vue.js (Redux_toolkit, Vuex)
+- Git, GitHub, Gitlab
+- Notion, Figma, JIRA, MatterMost
+- Responsive design, cross-browser compatibility
+- UI/UX design
+- Python
+
+### Currently Learning
+- Improving JavaScript fundamentals
+- Algorithm with Python and JavaScript syntax
+- Node.js, Next, Express, MongoDB for backend understanding
+- SCSS, TypeScript, and other techniques for code readability and maintainability
+
+ 
+</br>
+
+
+
+## Resume
+
+### 💻 Projects
+
+|      Period       |       Category        | Project                                                      |
+| :---------------: | :-------------------: | ------------------------------------------------------------ |
+| 2022.10 - 2022.11 |          App          | [성냥팔이 호랭이](https://github.com/mooyah5/horaeng) (에너지 절약 Android, iOS_모바일 애플리케이션) |
+| 2022.08 - 2022.10 |          Web          | [여보(여행 보따리)](https://github.com/mooyah5/yeo-bo) (사용자 리뷰 기반 2인 여행지 추천 서비스_모바일 웹) |
+| 2022.07 - 2022.08 |          Web          | [오운완(오늘의 운동 완료)](https://github.com/mooyah5/o_un_wan) (Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티) |
+| 2021.05 - 2021.05 |          Web          | [obee](https://github.com/mooyah5/Mobee) (추천 알고리즘을 사용한 영화 커뮤니티) |
+
+<br />
+
+
+
+### 👩🏻‍🎓 Educations & Careers
+
+- 2022.01 - 2022.12 삼성 청년 SW 아카데미 (SSAFY) 7th 수료
+- 2021.07 명지대학교 계절학기 컴퓨터 프로그래밍 수강  - 파이썬 학습 (1등)
+- 2021.07 명지대학교 계절학기 경영정보 수강 - SQL 학습 (3등)
+<br />
+
+### 👑 Certifications & Awards
+
+- 2022.08.19 삼성 청년 SW 아카데미 공통프로젝트 우수상(오운완)
+- 2021.12.03 스포츠지도사 2급 보디빌딩 (국민체육진흥공단)
+- 2021.11.26 정보처리기사 (한국산업인력공단)
+<br />
+
+### 🤹‍♀️ Activities
+
+- 2022.01 - 2022.11 삼성 청년 SW 아카데미 공식 교육생 기자단(SSAFYcial)
+- 2019.01 - 2019.12 명지대학교 중앙 댄스동아리(MGH) 회장
+- 2017.01 - 2017.12 명지대학교 국제통상학과 토론학회(누리다솜) 부학회장
+<br />
+
+
+
+
+
+
