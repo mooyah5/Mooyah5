@@ -5,7 +5,13 @@
   I wanna give back to society with trendy, user-friendly designs that make life easier.</br>
   I'm constantly leveling up my skills to take things to the next level! 💪
 </p>
-<br/>
+
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmooyah5%2Fhit-counter&count_bg=%23D3CBFF&title_bg=%234D3BFF&icon=&icon_color=%23E7E7E7&title=1000+%EB%8F%84%EB%8B%AC+%EC%9D%B8%EC%A6%9D+%EC%8B%9C+%EB%B0%A5%EC%82%AC%EC%A4%8C&edge_flat=true"/></a>
+  </div>
+  <br/>
+
 
 
 ## 🔭 Technical Skills
@@ -55,8 +61,10 @@
 ### Currently Learning
 - Basic - Improving JavaScript fundamentals
 - Algorithm -  with Python and JavaScript syntax
-- BE Understanding - Node.js, Next, Express, MongoDB
-- Code Efficiency and Maintainability - SCSS, TypeScript, and other techniques
+- BE Understanding - Node.js, Express, MongoDB
+- SSR for SEO - Next.js
+- Code Efficiency and Maintainability - TypeScript, SCSS, and other techniques
+- CI/CI - Nginx, Docker
 
  
 </br>
@@ -67,12 +75,12 @@
 
 ### 💻 Projects
 
-|      Period       |       Category        | Project                                                      |
-| :---------------: | :-------------------: | ------------------------------------------------------------ |
-| 2022.10 - 2022.11 |          App          | [성냥팔이 호랭이](https://github.com/mooyah5/horaeng) (에너지 절약 Android, iOS_모바일 애플리케이션) |
-| 2022.08 - 2022.10 |          Web          | [여보(여행 보따리)](https://github.com/mooyah5/yeo-bo) (사용자 리뷰 기반 2인 여행지 추천 서비스_모바일 웹) |
-| 2022.07 - 2022.08 |          Web          | [오운완(오늘의 운동 완료)](https://github.com/mooyah5/o_un_wan) (Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티) |
-| 2021.05 - 2021.05 |          Web          | [obee](https://github.com/mooyah5/Mobee) (추천 알고리즘을 사용한 영화 커뮤니티) |
+|      Period       |   Category  |  Stack  | Project     |Description                        | Review |
+| :---------------: | :---------: | :------:|:-----------------:|:-------------------------------------------: |:--:|
+| 2022.10 - 2022.11 |       App   | RN, TS  |[성냥팔이 호랭이](https://github.com/mooyah5/horaeng)| 에너지 절약 Android, iOS_모바일 애플리케이션 | [blog](https://blog.naver.com/baekhannah/223102152261)|
+| 2022.08 - 2022.10 |       Web   | React   |[여보](https://github.com/mooyah5/yeo-bo) |사용자 리뷰 기반 2인 여행지 추천 서비스_모바일 웹 | [blog](https://blog.naver.com/baekhannah/223102152685)|
+| 2022.07 - 2022.08 |       Web   | Vue3    |[오운완](https://github.com/mooyah5/o_un_wan)| Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102152862)|
+| 2021.05 - 2021.05 |       Web   | Vue2    |[mobee](https://github.com/mooyah5/Mobee) |추천 알고리즘을 사용한 영화 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102153020)|
 
 <br />
 
