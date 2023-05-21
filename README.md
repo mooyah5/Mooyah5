@@ -21,21 +21,14 @@
   <b> Frontend　</b>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=Next.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=Bootstrap&amp;logoColor=white">
-
-  <b>Etc　</b>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&amp;logo=Mattermost&amp;logoColor=white" >
  
   <b>Backend　</b>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">
@@ -45,26 +38,39 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white">
   
+  <b>Etc　</b>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&amp;logo=Mattermost&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&amp;logo=MicrosoftPowerPoint&amp;logoColor=white" >
+  
+  <b>CI/CD　</b>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&amp;logo=Nginx&amp;logoColor=white" >
+  
+  
 </p>
 
 </br>
 
 ### Proficient in
-- HTML5, CSS3, JavaScript
-- React, React Native, Vue.js (Redux_toolkit, Vuex)
-- Git, GitHub, Gitlab
-- Notion, Figma, JIRA, MatterMost
-- Responsive design, cross-browser compatibility
-- UI/UX design
+- FE 1 - HTML5, CSS3, JavaScript
+- FE 2 - React, React Native, Vue.js (Redux_toolkit, Vuex)
+- Collab - JIRA, Git, GitHub, Gitlab, Notion, Figma, MatterMost
+- UI/UX, design system, Responsive design
 - Python
 
 ### Currently Learning
-- Basic - Improving JavaScript fundamentals
+- Javascript fundamentals
+- TypeScript, SCSS for Code Efficiency and Maintainability
 - Algorithm -  with Python and JavaScript syntax
-- BE Understanding - Node.js, Express, MongoDB
+- Backend - Node.js, Express, MongoDB
 - SSR for SEO - Next.js
-- Code Efficiency and Maintainability - TypeScript, SCSS, and other techniques
-- CI/CI - Nginx, Docker
+- CI/CD - Docker, Nginx
+- Cross-browsing, Web Standards, Web Accessibility
 
  
 </br>
