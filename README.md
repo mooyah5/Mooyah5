@@ -18,7 +18,7 @@
 
 <p dir="auto">
 
-  <b> Frontend　</b>
+  <b> FE　</b>
   <img src="https://img.shields.io/badge/JS_es6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
@@ -31,11 +31,15 @@
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=Bootstrap&amp;logoColor=white">
  
-  <b>Backend　</b>
+  <b> BE, Server..　</b>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=Express&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=NestJS&amp;logoColor=white" >
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=Kubernetes&amp;logoColor=white" >
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   
@@ -55,19 +59,19 @@
 
 </br>
 
-### Proficient in
+### Proficient in! 💡
 - FE 1 - HTML5, CSS3, JavaScript
 - FE 2 - React, React Native, Vue.js (Redux_toolkit, Vuex)
 - Collab - JIRA, Git, GitHub, Gitlab, Notion, Figma, MatterMost
 - UI/UX, design system, Responsive design
 - Python
 
-### Currently Learning
-- Javascript, TypeScript, SCSS for Basic, Code Efficiency and Maintainability
+### Currently Learning ... 🤓
+- Javascript, TypeScript, SCSS for FE Basic, Code Efficiency and Maintainability
 - Algorithm - with Python and JavaScript syntax
-- Backend - Node.js, Express, MongoDB
+- Backend - Node.js, ExpressJS, NestJS, MongoDB
 - SSR for SEO - Next.js
-- CI/CD - Docker, Nginx, Jenkins
+- CI/CD, Infra - Docker, Nginx, Jenkins, Kubernetes, Ubuntu, AWS EC2, AWS RDS
 - Cross-browsing, Web Standards, Web Accessibility
 
  
@@ -81,10 +85,10 @@
 
 |      Period       |   Category  |  Stack  | Project     |Description                        | Review |
 | :---------------: | :---------: | :------:|:-----------------:|:-------------------------------------------: |:--:|
-| 2022.10 - 2022.11 |       App   | RN, TS  |[성냥팔이 호랭이](https://github.com/mooyah5/horaeng)| 에너지 절약 Android, iOS_모바일 애플리케이션 | [blog](https://blog.naver.com/baekhannah/223102152261)|
-| 2022.08 - 2022.10 |       Web   | React   |[여보](https://github.com/mooyah5/yeo-bo) |사용자 리뷰 기반 2인 여행지 추천 서비스_모바일 웹 | [blog](https://blog.naver.com/baekhannah/223102152685)|
-| 2022.07 - 2022.08 |       Web   | Vue3    |[오운완](https://github.com/mooyah5/o_un_wan)| Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102152862)|
-| 2021.05 - 2021.05 |       Web   | Vue2    |[mobee](https://github.com/mooyah5/Mobee) |추천 알고리즘을 사용한 영화 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102153020)|
+| 2022.10 - 2022.11 |       App   | RN, TS  |[성냥팔이 호랭이](https://github.com/mooyah5/horaeng)| 에너지 절약 Android, iOS_모바일 애플리케이션 | [blog](https://blog.naver.com/baekhannah/223102153020)|
+| 2022.08 - 2022.10 |       Web   | React   |[여보](https://github.com/mooyah5/yeo-bo) |사용자 리뷰 기반 2인 여행지 추천 서비스_모바일 웹 | [blog](https://blog.naver.com/baekhannah/223102152862)|
+| 2022.07 - 2022.08 |       Web   | Vue3    |[오운완](https://github.com/mooyah5/o_un_wan)| Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102152685)|
+| 2021.05 - 2021.05 |       Web   | Vue2    |[mobee](https://github.com/mooyah5/Mobee) |추천 알고리즘을 사용한 영화 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102152261)|
 
 <br />
 
