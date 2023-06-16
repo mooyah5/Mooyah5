@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&amp;logo=Cypress&amp;logoColor=white" >
 
 <b>Etc 　</b><br>
-<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=Notion&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=Figma&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=Jira&amp;logoColor=white">
