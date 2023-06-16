@@ -18,7 +18,7 @@
 
 <p dir="auto">
 
-  <b> FE　</b>
+  <b> FE　</b><br>
   <img src="https://img.shields.io/badge/JS_es6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
@@ -31,23 +31,27 @@
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=Bootstrap&amp;logoColor=white">
  
-  <b> BE, Server..　</b>
+  <b> BE　</b><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=Express&amp;logoColor=white" >
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=NestJS&amp;logoColor=white" >
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" >
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white" >
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white" >
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=Kubernetes&amp;logoColor=white" >
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white">
   
-  
-  <b>Etc　</b>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white">
+  <b>Ops </b><br>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white" >
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=white" >
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&amp;logo=Cypress&amp;logoColor=white" >
+
+  <b>Etc　</b><br>
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&amp;logo=Mattermost&amp;logoColor=white" >
@@ -69,9 +73,9 @@
 ### Currently Learning ... 🤓
 - Javascript, TypeScript, SCSS for FE Basic, Code Efficiency and Maintainability
 - Algorithm - with Python and JavaScript syntax
-- Backend - Node.js, ExpressJS, NestJS, MongoDB
+- Backend - Node.js, ExpressJS, MongoDB
 - SSR for SEO - Next.js
-- CI/CD, Infra - Docker, Nginx, Jenkins, Kubernetes, Ubuntu, AWS EC2, AWS RDS
+- CI/CD, Infra - Docker, Jenkins, Ubuntu, AWS EC2, AWS RDS, Kubernetes
 - Cross-browsing, Web Standards, Web Accessibility
 
  
