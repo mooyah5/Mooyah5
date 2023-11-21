@@ -83,8 +83,8 @@
 
 |      Period       | Category | Stack  |                        Project                        |                    Description                     |                         Review                         |
 | :---------------: | :------: | :----: | :---------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
-| 2023.11 ~ ing | Web (NIT) | Next, (Nest) | [Art:ch](artch.kr) | 작가의 가치를 연결하다. | |
-| 2023.08 - 2023.10 | Web (NIT) | Svelte, Next, (Nest) | [Re:vind 리바인드](revind.io) | 1분이면 만드는 나만의 홈페이지 | |
+| 2023.11 ~ ing | Web (NIT) | Next, (Nest) | [Art:ch](https://artch.kr) | 작가의 가치를 연결하다. | |
+| 2023.08 - 2023.10 | Web (NIT) | Svelte, Next, (Nest) | [Re:vind 리바인드](https://revind.io) | 1분이면 만드는 나만의 홈페이지 | |
 | 2022.10 - 2022.11 |   App (SSAFY)    | RN, TS | [성냥팔이 호랭이](https://github.com/mooyah5/horaeng) |   에너지 절약 Android, iOS\_모바일 애플리케이션    | [blog](https://blog.naver.com/baekhannah/223102153020) |
 | 2022.08 - 2022.10 |   Web (SSAFY)    | React  |       [여보](https://github.com/mooyah5/yeo-bo)       | 사용자 리뷰 기반 2인 여행지 추천 서비스\_모바일 웹 | [blog](https://blog.naver.com/baekhannah/223102152862) |
 | 2022.07 - 2022.08 |   Web (SSAFY)     |  Vue3  |     [오운완](https://github.com/mooyah5/o_un_wan)     | Web RTC 기술을 활용한 게이미피케이션 운동 커뮤니티 | [blog](https://blog.naver.com/baekhannah/223102152685) |
