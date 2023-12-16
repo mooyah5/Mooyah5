@@ -27,7 +27,23 @@
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white">
-<img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&amp;logo=JQuery&amp;logoColor=white">
+
+<b>Etc 　</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=Figma&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=Notion&amp;logoColor=white">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&amp;logo=MicrosoftPowerPoint&amp;logoColor=white" >
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" >
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=Jira&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&amp;logo=Mattermost&amp;logoColor=white" >
+
+<b> BE 　</b><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=Express&amp;logoColor=white" >
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=Django&amp;logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <b>Ops </b><br>
 <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&amp;logo=Visual Studio Code&amp;logoColor=white">
@@ -38,41 +54,24 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=Ubuntu&amp;logoColor=white" >
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&amp;logo=Amazon EC2&amp;logoColor=white" >
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&amp;logo=Cypress&amp;logoColor=white" >
-
-<b>Etc 　</b><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=Notion&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=Figma&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=Jira&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&amp;logo=Mattermost&amp;logoColor=white" >
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&amp;logo=MicrosoftPowerPoint&amp;logoColor=white" >
-
-<b> BE 　</b><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=Django&amp;logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=PHP&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=Express&amp;logoColor=white" >
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
 </p>
 
 </br>
 
 ### Proficient in! 💡
 
-- Python
 - FE 1 - JavaScript, TypeScript, Python, HTML5, CSS3, scss
-- FE 2 - React, React Native, Svelte, Next.js, Vue.js (State Managing - Redux_toolkit, Zustand, Jotai, Vuex)
+- FE 2 - React, React Native, Svelte, Next.js(14), Vue.js(2,3) (State Managing - Redux_toolkit, Zustand, Jotai, Vuex)
 - Collab - Git, GitHub, Figma, Notion, Gitlab, MatterMost, Jira, Slack
 - UI/UX, Design System, Responsive design
+- Python
 
 ### Currently Learning ... 🤓
 
 - SSR for SEO with Next.js
+- Backend - NestJS
 - Algorithm - with Python and JavaScript syntax
 - Cross-browsing, Web Standards, Web Accessibility
-- Backend - Node.js, ExpressJS, MongoDB, PHP
 - CI/CD, Infra - Docker, Jenkins, Ubuntu, AWS EC2, AWS RDS, Kubernetes
 
 </br>
