@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&amp;logo=Svelte&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=Vue.js&amp;logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/Jotai-343434?style=for-the-badge&logo=Jotai&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-585048?style=for-the-badge&logo=Zustand&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
 <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
