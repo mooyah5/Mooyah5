@@ -121,10 +121,9 @@
 
 |      Period             | Category | Stack  |                        Project                        |                    Description                     |                         Review                         |
 | :---------------: | :------: | :----: | :---------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
-| 2024.11. (1week)         | Web | React, Nest, Antd | - | 식품백억 | SI 풀스택 보조 (관리자 페이지 등) |
 | 2024.06. (2weeks)        | WebApp (NIT) |     React, Nest, Jotai     |[Queue](https://queue.nitsoft.co.kr)|회사 계열사 공동 공간 예약 시스템|프론트엔드 전담|
-| 2023.03. ~ ing           | Web (NIT) |     Next, Nest, Zustand     |[NITSOFT](https://nitsoft.co.kr)              |NITSOFT 주요 서비스 - 올인원 메시지 간편 발송|프론트엔드 전담 및 백엔드 협업 참여|
-| 2023.12. ~ 2023.02. , M/R  | Web (NIT) |     Next, Nest, Zustand     | [Art:ch](https://artch.io) |Art:ch - 작가의 가치를 연결하다.|프론트엔드 전담 및 백엔드 협업 참여|
+| 2023.03. ~ ing           | Web (NIT) |     Next, Nest, Zustand     |[NITSOFT](https://nitsoft.co.kr)              |NITSOFT 주요 서비스 - 올인원 메시지 간편 발송|프론트엔드 전담, 백엔드 협업 참여|
+| 2023.12. ~ 2023.02. , M/R  | Web (NIT) |     Next, Nest, Zustand     | [Art:ch](https://artch.io) |Art:ch - 작가의 가치를 연결하다.|프론트엔드 전담, 백엔드 개발|
 | 2023.08. - 2023.10. | Web (NIT) | Svelte, Next |           [Re:vind 리바인드](https://revind.io)|RE:VIND - 1분이면 만드는 나만의 홈페이지  |프론트엔드 개발 및 마케팅, 디자인, 기획 참여|
 | 2022.10. - 2022.11. |   App (SSAFY)    | RN, TS | [성냥팔이 호랭이](https://github.com/mooyah5/horaeng) |   에너지 절약 캠페인 Android, iOS App  | [blog](https://blog.naver.com/baekhannah/223102153020) |
 | 2022.08. - 2022.10. |  Mobile Web (SSAFY)    | React, Redux-toolkit  |       [여보](https://github.com/mooyah5/yeo-bo)       | 사용자 리뷰 기반 2인 여행지 추천 서비스 (팀장) | [blog](https://blog.naver.com/baekhannah/223102152862) |
